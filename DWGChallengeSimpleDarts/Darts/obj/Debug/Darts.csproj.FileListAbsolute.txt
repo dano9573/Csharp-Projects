@@ -1,0 +1,5 @@
+c:\users\dano\documents\visual studio 2015\Projects\DWGChallengeSimpleDarts\Darts\bin\Debug\Darts.dll
+c:\users\dano\documents\visual studio 2015\Projects\DWGChallengeSimpleDarts\Darts\bin\Debug\Darts.pdb
+c:\users\dano\documents\visual studio 2015\Projects\DWGChallengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+c:\users\dano\documents\visual studio 2015\Projects\DWGChallengeSimpleDarts\Darts\obj\Debug\Darts.dll
+c:\users\dano\documents\visual studio 2015\Projects\DWGChallengeSimpleDarts\Darts\obj\Debug\Darts.pdb
